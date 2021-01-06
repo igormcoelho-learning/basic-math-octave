@@ -1,6 +1,6 @@
 # basic-math-octave
 
-This math exercise is a demonstration of using Octave for autograding using GitHub Classroom. This is the invitation link for the activity: https://classroom.github.com/a/M8rsjRoB
+This math exercise is a demonstration of using Octave for autograding using GitHub Classroom. This is the invitation link for the activity: https://classroom.github.com/a/M8rsjRoB (you may need to accept some invitation email automatically sent).
 
 If you are an instructor/teacher/professor, feel free to learn more on how to create these tests in this post: 
 
